@@ -1,0 +1,40 @@
+.boton,.boton0{
+    background-color: rgba(221, 13, 134, 0.959);
+    width: 80px;
+    height: 60px;
+    font-size: 50px;
+}
+.entrada{
+    background-color: floralwhite;
+    color: green;
+    height: 40px;
+    font-size: 36px;
+}
+
+.boton0{
+    width: 173px;
+}
+#tiempo{
+      background-color: black;
+      color: white;
+      height: 300;
+      font: 1em sans-serif;
+      font-size: 50px;
+}
+
+#retorno {
+    position: fixed;
+    bottom: 200px;
+    left:600px;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+
+#tablaResultados{
+    position: fixed;
+    bottom: 10px;
+}
+
+.amain{
+    font-size: 20px;
+}
